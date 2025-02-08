@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Zireaelst/DASF/static/js/main.416e59b7.js",
+    "static/js/488.9c20ba8d.chunk.js": "/Zireaelst/DASF/static/js/488.9c20ba8d.chunk.js",
+    "index.html": "/Zireaelst/DASF/index.html",
+    "main.416e59b7.js.map": "/Zireaelst/DASF/static/js/main.416e59b7.js.map",
+    "488.9c20ba8d.chunk.js.map": "/Zireaelst/DASF/static/js/488.9c20ba8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.416e59b7.js"
+  ]
+}
